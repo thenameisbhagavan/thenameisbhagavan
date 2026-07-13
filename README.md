@@ -1,169 +1,156 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋 I'm Siva Satya Sai Bhagavan Gopalajosyula
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-AI Systems Engineer • Full Stack Developer • Creator of CareerOS &
-AuraOS
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-Building Intelligent Futures through Artificial Intelligence, Full Stack
-Engineering, and Product Thinking.
-```{=html}
+
+<div align="center">
+
+# 👋 Hi, I'm **Siva Satya Sai Bhagavan Gopalajosyula**
+
+### AI Systems Engineer • Full Stack Developer • Product Builder
+
+**Building Intelligent Futures with AI, Full-Stack Engineering & Modern Software Architecture**
+
+<p>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=0A84FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Creator+of+CareerOS;Creator+of+AuraOS;Building+Production+AI+Products;Always+Learning+%26+Building" />
+</a>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/thenameisbhagavan">`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Creator+of+CareerOS;Creator+of+AuraOS;Building+Intelligent+Products;Full+Stack+Developer" />`{=html}
-`</a>`{=html}
-```{=html}
+
+<p>
+<a href="https://github.com/thenameisbhagavan"><img src="https://img.shields.io/github/followers/thenameisbhagavan?style=for-the-badge&logo=github"/></a>
+<a href="https://komarev.com/ghpvc/?username=thenameisbhagavan"><img src="https://komarev.com/ghpvc/?username=thenameisbhagavan&style=for-the-badge"/></a>
+<a href="https://thenameisbhagavan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0A84FF?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/thenameisbhagavan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/thenameisbhagavan">`{=html}`<img src="https://img.shields.io/github/followers/thenameisbhagavan?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/thenameisbhagavan">`{=html}`<img src="https://komarev.com/ghpvc/?username=thenameisbhagavan&style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://thenameisbhagavan.vercel.app">`{=html}`<img src="https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/thenameisbhagavan">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+</div>
 
-# 👨‍💻 About Me
+---
 
-I'm **Siva Satya Sai Bhagavan Gopalajosyula**, an AI Systems Engineer
-and Full Stack Developer from Andhra Pradesh, India.
+# 🚀 About Me
 
-I build production-ready AI products, intelligent software systems, and
-modern web applications.
+I'm **Siva Satya Sai Bhagavan Gopalajosyula**, an **AI Systems Engineer** and **Full Stack Developer** from Andhra Pradesh, India.
 
-### Current Focus
+I build intelligent software systems powered by **Artificial Intelligence, Machine Learning, LLMs, React, Python, Flask, Node.js, and modern cloud technologies**.
 
--   🤖 Artificial Intelligence
--   🧠 Large Language Models (LLMs)
--   ⚡ AI Engineering
--   🌐 Full Stack Development
--   📊 Machine Learning
--   🚀 Product Engineering
+My goal is to create products that solve real-world problems through engineering excellence and thoughtful design.
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Flagship Projects
+# 🌟 Flagship Products
 
-## CareerOS
+## 🚀 CareerOS
+AI-Powered Career Intelligence Operating System.
 
-AI-Powered Career Intelligence Operating System featuring Resume
-Intelligence, GitHub Intelligence, ATS Analysis, Engineering Maturity
-Scoring, and AI Career Roadmaps.
+- Resume Intelligence
+- GitHub Intelligence
+- ATS Analysis
+- Engineering Maturity
+- AI Career Roadmaps
+- Personalized Insights
 
-## AuraOS
+---
 
-A Personal Intelligence Operating System focused on Memory, Context,
-Knowledge Retrieval, Reasoning, and Intelligent Conversations.
+## 🧠 AuraOS
+Personal Intelligence Operating System.
 
-## Veritas
+- Memory
+- Context
+- Reasoning
+- Knowledge Retrieval
+- AI Conversations
 
-An Explainable AI platform for Claim Extraction, Credibility Analysis,
-Bias Detection, and Decision Intelligence.
+---
 
-------------------------------------------------------------------------
+## 📈 Veritas
+Explainable AI platform for trustworthy information.
 
-# 🛠 Tech Stack
+- Claim Extraction
+- Credibility Analysis
+- Bias Detection
+- Decision Intelligence
 
-## Languages
+---
 
-Python • Java • JavaScript • SQL • C
+# 💻 Tech Stack
 
-## Frontend
+### Languages
+`Python` `Java` `JavaScript` `SQL` `C`
 
-React • HTML5 • CSS3 • Tailwind CSS • Vite
+### Frontend
+`React` `HTML5` `CSS3` `Tailwind CSS` `Vite`
 
-## Backend
+### Backend
+`Node.js` `Express.js` `Flask`
 
-Node.js • Express.js • Flask • REST APIs
+### Database
+`MongoDB` `MySQL`
 
-## Database
+### AI
+`TensorFlow` `Scikit-Learn` `OpenCV` `Gemini API` `RAG` `Prompt Engineering`
 
-MongoDB • MySQL
-
-## AI
-
-TensorFlow • Scikit-Learn • OpenCV • Google Gemini API • RAG • Prompt
-Engineering
-
-------------------------------------------------------------------------
+---
 
 # 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=thenameisbhagavan&show_icons=true&theme=transparent"/>`{=html}
-`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisbhagavan&theme=transparent"/>`{=html}
-```{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thenameisbhagavan&show_icons=true&theme=transparent&rank_icon=github"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisbhagavan&theme=transparent"/>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenameisbhagavan&theme=github-compact"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=thenameisbhagavan&theme=flat&row=2&column=4"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenameisbhagavan&theme=github-compact"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=thenameisbhagavan&theme=flat&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
 
 # 🌐 Portfolio
 
-**Website:** https://thenameisbhagavan.vercel.app
+### 🔗 https://thenameisbhagavan.vercel.app
 
-My portfolio showcases:
+Explore:
+- CareerOS
+- AuraOS
+- Engineering Journal
+- AI Projects
+- Full Stack Projects
+- Software Architecture
+- Technical Articles
 
--   CareerOS
--   AuraOS
--   Engineering Journal
--   AI Projects
--   Full Stack Applications
--   Software Architecture
--   Technical Articles
-
-------------------------------------------------------------------------
+---
 
 # 📫 Connect
 
--   Portfolio: https://thenameisbhagavan.vercel.app
--   LinkedIn: https://linkedin.com/in/thenameisbhagavan
--   GitHub: https://github.com/thenameisbhagavan
+- 💼 LinkedIn: https://linkedin.com/in/thenameisbhagavan
+- 💻 GitHub: https://github.com/thenameisbhagavan
+- 🌐 Portfolio: https://thenameisbhagavan.vercel.app
 
-------------------------------------------------------------------------
+---
+
+# 🎯 Current Focus
+
+- Building CareerOS
+- Developing AuraOS
+- AI Engineering
+- Full Stack Development
+- Intelligent Systems
+- Open Source
+
+---
 
 # 💭 Engineering Philosophy
 
-> "Build intelligent systems that create meaningful impact."
+> **"Build systems that solve meaningful problems."**
 
-> "Good engineering solves problems. Great engineering improves lives."
+> **"Great engineering combines intelligence, simplicity, and impact."**
 
-------------------------------------------------------------------------
+---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+**Building Intelligent Futures.**
+
+</div>
