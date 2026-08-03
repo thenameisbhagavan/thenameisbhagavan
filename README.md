@@ -9,7 +9,7 @@
 <br/>
 
 <p>
-  <a href="https://thenameisbhagavan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-00E5FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://thenameisbhagavan.in/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-00E5FF?style=for-the-badge&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GITHUB-TheNameIsBhagavan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
