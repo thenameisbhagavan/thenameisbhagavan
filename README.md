@@ -1,557 +1,608 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=210&section=header&text=TheNameIsBhagavan&fontSize=52&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Frontend%20Engineer%20%C2%B7%20Product%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<!-- ============================================================
+     VERITAS — Explainable Intelligence Platform
+     Premium README — top-tier product launch experience
+     ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:0F2A2E,100:0A0A0A&height=260&section=header&text=VERITAS&fontSize=90&fontColor=E8F0EE&fontAlignY=40&desc=Truth.%20Intelligence.%20Explainability.&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Systems;Designing+Human-Centered+Software;Engineering+AI+Products;Creating+Premium+Digital+Experiences;Shipping+Production+Software)](https://git.io/typing-svg)
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=0FD08C&center=true&vCenter=true&width=780&lines=Every+claim+traced+to+its+source.;Every+conclusion+earns+its+confidence.;Evidence+first.+Reasoning+second.+Truth+last.;This+is+not+a+classifier.+This+is+an+evidence+engine." alt="VERITAS tagline animation" />
+</a>
 
-<br/>
+<br/><br/>
 
+<!-- STATUS / QUALITY BADGES -->
 <p>
-  <a href="https://thenameisbhagavan.in/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-00E5FF?style=for-the-badge&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GITHUB-TheNameIsBhagavan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/status-research--preview-0FD08C?style=for-the-badge&labelColor=0B0F19" alt="status"/>
+  <img src="https://img.shields.io/badge/build-passing-1E90FF?style=for-the-badge&labelColor=0B0F19" alt="build"/>
+  <img src="https://img.shields.io/badge/license-Apache_2.0-D4AF37?style=for-the-badge&labelColor=0B0F19" alt="license"/>
+  <img src="https://img.shields.io/badge/explainability-first--class-1E90FF?style=for-the-badge&labelColor=0B0F19" alt="explainability"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/github/stars/your-org/veritas?style=flat-square&color=0FD08C&labelColor=0B0F19" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/your-org/veritas?style=flat-square&color=1E90FF&labelColor=0B0F19" alt="forks"/>
+  <img src="https://img.shields.io/github/last-commit/your-org/veritas?style=flat-square&color=D4AF37&labelColor=0B0F19" alt="last commit"/>
+  <img src="https://img.shields.io/github/actions/workflow/status/your-org/veritas/ci.yml?style=flat-square&label=CI&labelColor=0B0F19" alt="CI"/>
+  <img src="https://komarev.com/ghpvc/?username=veritas-platform&style=flat-square&color=0FD08C&label=views" alt="visitors"/>
+</p>
+
+<sub>⚠️ <b>Placeholder notice:</b> replace <code>your-org/veritas</code>, live-site URLs, and screenshot paths marked below before publishing.</sub>
+
+<br/>
+
+<a href="#-quick-navigation"><b>Navigate</b></a> ·
+<a href="#-live-deployment">Live Demo</a> ·
+<a href="#-intelligence-pipeline">Pipeline</a> ·
+<a href="#-architecture">Architecture</a> ·
+<a href="#-roadmap">Roadmap</a> ·
+<a href="#-contributing">Contributing</a>
+
 </div>
 
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:0A0A0A&height=2&width=100%" width="100%"/>
 
 <br/>
+
+## 01 · Manifesto
+
+> **Information moves faster than judgment.**
+> A claim can circle the globe before evidence for or against it has even been gathered. The systems built to help — keyword filters, sentiment classifiers, black-box "fake news" detectors — were never built to *explain themselves*. They output a label. They withhold their reasoning. And a label without reasoning is not intelligence — it's a guess wearing a lab coat.
+
+**VERITAS exists to close that gap.**
+
+VERITAS is an **Explainable Intelligence Platform** — it does not tell you *what* to believe. It shows you **what was found, where it came from, how strongly it supports or contradicts a claim, and why the system weighed it the way it did.** Every score is traceable. Every conclusion is auditable. Every step of reasoning is inspectable.
 
 <div align="center">
-
-## About Me
-
-</div>
-
-I completed my B.Tech in Artificial Intelligence and Data Science, and since then I've been building software that sits at the intersection of AI systems, backend architecture, and frontend craft.
-
-I don't build tutorial projects. I build complete products — the kind with a real interface, a real architecture, and a real reason to exist. Some are shipped and live. Some are still in progress. All of them are built the same way: with the assumption that someone other than me will actually use them.
-
-My work spans machine learning models, retrieval-augmented AI systems, REST APIs, and interfaces designed with the same care as a consumer product. I move between these layers deliberately — an AI system is only as good as the interface that makes it usable, and an interface is only as good as the engineering underneath it.
-
-Engineering, to me, isn't just writing code that works. It's building something someone enjoys using.
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Engineering Philosophy
-
-</div>
-
-Every engineer eventually forms an opinion about how software should be built. Mine came from noticing how often "it works" and "it's good" are treated as the same thing, when they rarely are.
-
-**Engineering with intention** means every architectural decision has a reason behind it — not "because that's how it's usually done," but because it serves the product, the user, or the team maintaining it later.
-
-**Simplicity over unnecessary complexity** is a discipline, not a shortcut. It's easier to add an abstraction than to justify not needing one. I default to the simplest structure that solves the actual problem, and I add complexity only when the problem demands it.
-
-**Human-centered software** starts from the assumption that the person on the other end of the interface doesn't care about your tech stack — they care whether the thing works, feels right, and respects their time.
-
-**Scalable architecture** isn't about over-engineering for traffic you don't have. It's about writing code that doesn't actively fight you when requirements change, because they always do.
-
-**Long-term maintainability** is what separates a project from a product. Code that only its author can safely touch isn't finished — it's fragile.
-
-**Performance-first engineering** treats speed as a feature, not an optimization pass at the end. A slow product feels like a broken one, even when it technically works.
-
-**Continuous learning** is non-negotiable in a field that reinvents its own tools every few years. I'd rather stay a beginner at new things than an expert at only what I already know.
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Featured Products
-
-<i>Presented the way they were built — deliberately.</i>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### CareerOS
-**Flagship AI Career Intelligence Platform**
-
-**Purpose**
-CareerOS is an AI-powered career development platform built to help students and professionals improve resumes, analyze GitHub profiles, identify skill gaps, generate personalized learning roadmaps, and benchmark engineering skills against real technical career expectations.
-
-**Problem**
-Most career tools give generic, templated advice — "add more keywords," "use action verbs." None of that tells someone what they're actually missing or what to do next.
-
-**Solution**
-CareerOS combines deterministic software engineering with AI-powered analysis, so recommendations are grounded in an actual evaluation of the person's resume and profile rather than a generic checklist.
-
-**Engineering Highlights**
-- Combines rule-based evaluation with AI-driven analysis for more consistent output
-- Structured pipeline for resume parsing, GitHub profile analysis, and roadmap generation
-- Built as a full-stack product rather than a single-purpose script
-
-**Tech Stack**
-`React` `Vite` `FastAPI` `Python` `JavaScript` `MongoDB` `REST APIs` `Machine Learning` `NLP`
-
-**Status:** Production-ready
-
-<a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GitHub-View_Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### VoltDrive
-**Premium Luxury Electric Vehicle Experience**
-
-**Purpose**
-VoltDrive is a production-ready automotive frontend inspired by Apple, Porsche, Tesla, and Lucid — built to prove that a marketing-style site can be both cinematic and genuinely well-engineered.
-
-**Problem**
-Most EV showcase sites default to a stock template: hero video, spec sheet, contact form. None of it feels considered.
-
-**Solution**
-A fully custom frontend where motion, layout, and responsiveness are treated as one connected system instead of separate concerns.
-
-**Engineering Highlights**
-- Cinematic hero sequences and scroll-based storytelling
-- Interactive vehicle configurator
-- Component-driven architecture shared across every page
-- Animated route transitions for a native, app-like feel
-
-**Tech Stack**
-`React` `Vite` `JavaScript` `CSS` `Framer Motion` `React Router`
-
-**Status:** Production Deployed
-
-<a href="https://voltdrive-showcase.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-00E5FF?style=flat-square" /></a>
-<a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GitHub-View_Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### AuraOS
-**AI Personal Operating System**
-
-**Purpose**
-AuraOS is an AI-powered personal operating system that unifies intelligent memory, knowledge management, document understanding, AI conversation, and retrieval-augmented generation into a single workspace.
-
-**Problem**
-Personal productivity tools are fragmented — notes in one app, documents in another, AI chat in a third, with no shared memory between them.
-
-**Solution**
-A centralized AI workspace where memory, documents, and conversation exist in the same system, so context isn't lost moving between tools.
-
-**Engineering Highlights**
-- Vector-based retrieval for grounding AI responses in personal documents
-- AI memory engine designed to persist context across sessions
-- RAG pipeline built for accuracy over generic LLM responses
-
-**Tech Stack**
-`React` `FastAPI` `Python` `Vector Database` `RAG` `AI Memory Engine` `LLMs`
-
-**Status:** Under Active Development
-
-<a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GitHub-View_Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### VERITAS
-**AI Reasoning & Article Intelligence Platform**
-
-**Purpose**
-VERITAS is an intelligent document analysis platform that extracts claims, detects bias, evaluates credibility, and generates explainable reasoning reports from long-form articles.
-
-**Problem**
-Most summarization tools compress text without evaluating it — they don't tell you whether a claim is well-supported or where bias creeps in.
-
-**Solution**
-A reasoning-first pipeline that treats an article as something to be analyzed and explained, not just shortened.
-
-**Engineering Highlights**
-- Claim extraction combined with credibility scoring
-- Bias detection layered on top of standard summarization
-- Explainable output — every conclusion is traceable to the source text
-
-**Tech Stack**
-`Python` `FastAPI` `NLP` `Machine Learning` `RAG` `Transformers`
-
-**Status:** Research Project
-
-<a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GitHub-View_Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td></tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>More Products</b></summary>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### Resume Builder
-
-**Purpose**
-A MERN-based resume builder that lets users create modern, ATS-friendly resumes, export them as PDFs, manage multiple templates, and receive resume scoring feedback.
-
-**Tech Stack**
-`MongoDB` `Express` `React` `Node.js` `JavaScript`
-
-**Status:** Completed
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### Heart Disease Prediction
-
-**Purpose**
-A machine learning application that predicts heart disease risk from clinical patient data, trained and evaluated on the Cleveland Heart Disease Dataset.
-
-**Models Evaluated**
-Logistic Regression (best performer, ~85% accuracy), Random Forest, Support Vector Machine, KNN
-
-**Tech Stack**
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
-**Status:** Completed
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-### Fruit & Vegetable Rotten Detection
-
-**Purpose**
-A computer vision application that classifies fresh versus rotten fruits and vegetables using transfer learning.
-
-**Model**
-MobileNetV2 (Transfer Learning)
-
-**Tech Stack**
-`Python` `TensorFlow` `Keras` `OpenCV` `Flask`
-
-**Status:** Completed
-
-</td></tr>
-</table>
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Engineering Capabilities
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-**Artificial Intelligence**
-- Python
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Retrieval-Augmented Generation
-- FastAPI
-- Large Language Models
+### VERITAS is **not**
 
-**Frontend Engineering**
-- React
-- Vite
-- JavaScript
-- Framer Motion
-- CSS
-- Responsive Design
+- ❌ A "fake news" detector
+- ❌ A binary true/false classifier
+- ❌ A sentiment-flavored NLP demo
+- ❌ A black box you're asked to trust
 
 </td>
 <td width="50%" valign="top">
 
-**Backend Engineering**
-- FastAPI
-- Node.js
-- Express
-- REST APIs
-- Authentication
+### VERITAS **is**
 
-**Databases**
-- MongoDB
-- SQL
-
-**Developer Tools**
-- Git
-- GitHub
-- VS Code
-- Postman
-- Docker
-- Vercel
+- ✅ An Evidence Engine
+- ✅ A Claim Verification Platform
+- ✅ A Reasoning & Explainability System
+- ✅ A research-grade Truth Intelligence Engine
 
 </td>
 </tr>
 </table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Technology Ecosystem
-
 </div>
 
+<br/>
+
+## 02 · Why This Exists
+
+```mermaid
+flowchart LR
+    A["Misinformation\nspreads faster than\nfact-checking"] --> B["Modern NLP models\nclassify, but cannot\njustify"]
+    B --> C["Users are asked\nto trust a label\nwith no evidence"]
+    C --> D["Trust erodes when\nreasoning is invisible"]
+    D --> E(["VERITAS: make the\nevidence — not the\nverdict — the product"])
+
+    style A fill:#0B0F19,stroke:#D4AF37,color:#E8F0EE
+    style B fill:#0B0F19,stroke:#D4AF37,color:#E8F0EE
+    style C fill:#0B0F19,stroke:#D4AF37,color:#E8F0EE
+    style D fill:#0B0F19,stroke:#1E90FF,color:#E8F0EE
+    style E fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+```
+
+**The insight VERITAS is built on:** explainability is not a feature bolted onto a verdict — it *is* the verdict. A credibility score without a visible evidence trail is not more trustworthy than a coin flip; it's simply a coin flip with better production values.
+
+<br/>
+
+## 03 · Quick Navigation
+
 <div align="center">
 
-| AI & Machine Learning | Frontend | Backend | Tooling |
+| | | | |
 |:---:|:---:|:---:|:---:|
-| ![Python](https://skillicons.dev/icons?i=python) | ![React](https://skillicons.dev/icons?i=react) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![Vite](https://skillicons.dev/icons?i=vite) | ![Nodejs](https://skillicons.dev/icons?i=nodejs) | ![GitHub](https://skillicons.dev/icons?i=github) |
-| ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Express](https://skillicons.dev/icons?i=express) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
-| ![Sklearn](https://skillicons.dev/icons?i=sklearn) | ![CSS3](https://skillicons.dev/icons?i=css) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Docker](https://skillicons.dev/icons?i=docker) |
-| | | | ![Vercel](https://skillicons.dev/icons?i=vercel) |
-| | | | ![Postman](https://skillicons.dev/icons?i=postman) |
+| [🧠 Intelligence Pipeline](#-intelligence-pipeline) | [🔍 Claim Extraction](#-claim-extraction) | [🕸️ Entity Recognition](#-entity--relation-recognition) | [📚 Evidence Engine](#-evidence-engine) |
+| [⚖️ Credibility Scoring](#-credibility-scoring) | [💡 Explainability Engine](#-explainability-engine) | [🎭 Bias Detection](#-bias--framing-detection) | [📄 Report Generator](#-report-generator) |
+| [🏛️ Architecture](#-architecture) | [🗂️ Folder Structure](#-folder-structure) | [🧰 Tech Stack](#-technology-stack) | [🚀 Deployment](#-deployment) |
+| [🔐 Security](#-security) | [⚡ Performance](#-performance) | [📈 Scalability](#-scalability) | [🗺️ Roadmap](#-roadmap) |
 
 </div>
 
 <br/>
 
----
-
-<br/>
+## 04 · Live Deployment
 
 <div align="center">
 
-## Engineering Journey
-
-</div>
-
-```
-2022 — 2026   B.Tech in Artificial Intelligence and Data Science
-              Foundations in machine learning, data structures, and software engineering
-
-2024 — 2025   First production projects
-              MERN-stack applications, machine learning models, early full-stack products
-
-2025 — 2026   AI systems + frontend engineering convergence
-              Building RAG pipelines, AI-powered products, and premium interfaces side by side
-
-Now           Shipping products, deepening AI systems knowledge
-              CareerOS, VoltDrive, AuraOS, and VERITAS in active build and refinement
-
-Next          Agentic AI systems, deeper production engineering,
-              and continued investment in frontend craft
-```
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Current Focus
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
-
-- AI Systems Engineering
-- Agentic AI
-- Retrieval-Augmented Generation architectures
-
+<td align="center" width="33%">
+<b>🌐 Live Platform</b><br/><br/>
+<a href="https://veritas.example.com"><img src="https://img.shields.io/badge/Launch-Platform-0FD08C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F19"/></a>
+<br/><sub>PLACEHOLDER — replace with production URL</sub>
 </td>
-<td width="50%" valign="top">
-
-- Intelligent software products
-- Modern frontend engineering
-- Product design and interface craft
-
+<td align="center" width="33%">
+<b>📦 Repository</b><br/><br/>
+<a href="https://github.com/your-org/veritas"><img src="https://img.shields.io/badge/View-Source-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/></a>
+<br/><sub>PLACEHOLDER — replace with repo URL</sub>
+</td>
+<td align="center" width="33%">
+<b>📖 Research Docs</b><br/><br/>
+<a href="https://docs.veritas.example.com"><img src="https://img.shields.io/badge/Read-Documentation-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0B0F19"/></a>
+<br/><sub>PLACEHOLDER — replace with docs URL</sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Architecture Mindset
-
-</div>
-
-When I start a new system, I don't start with the tech stack — I start with the shape of the problem. What data moves through this system? Where does it need to be fast? Where does it need to be correct rather than fast? Those answers decide the architecture, not the other way around.
-
-I think in layers: a clear boundary between what the user sees, what the application logic does, and where the data actually lives. When those layers blur, everything downstream gets harder — testing, debugging, onboarding a second developer, all of it.
-
-For AI systems specifically, I treat the model as one component in a larger pipeline, not the whole system. Retrieval, validation, and formatting around a model matter as much as the model itself — often more, since that's what determines whether the output is actually usable.
-
-When I hit a hard problem, I try to make it smaller before I try to make it clever. Most bugs and most bad architecture come from solving a problem that was never clearly defined in the first place.
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Development Principles
-
-</div>
-
-- **Performance First** — speed is treated as a requirement, not a later optimization pass
-- **Reusable Components** — shared building blocks over one-off implementations
-- **Scalable Architecture** — systems that absorb changing requirements without a rewrite
-- **Clean Code** — code that reads clearly to the next person who opens it, including future me
-- **Accessibility** — interfaces that work for more than just the ideal user on the ideal device
-- **Maintainability** — decisions justified by how the system holds up months later, not just at ship time
-- **Testing Mindset** — treating verification as part of building, not an afterthought
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheNameIsBhagavan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNameIsBhagavan&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNameIsBhagavan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNameIsBhagavan&theme=tokyo-night&hide_border=true" width="90%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/TheNameIsBhagavan/TheNameIsBhagavan/output/github-contribution-grid-snake.svg" width="90%" />
-
-<sub>Contribution snake generated via a scheduled GitHub Action — see <a href="https://github.com/Platane/snk">Platane/snk</a> for setup.</sub>
-
 </div>
 
 <br/>
 
----
+## 05 · Product Philosophy
+
+VERITAS is engineered around four non-negotiable principles. Each one shapes an architectural decision downstream — none of them are marketing copy.
+
+<table>
+<tr><td width="25%" align="center"><b>🔎 Evidence Before Verdict</b></td><td>No score is emitted without an attached, inspectable evidence set. If the system cannot cite a source, it does not render a confidence value — it reports insufficient evidence.</td></tr>
+<tr><td align="center"><b>🪞 Reasoning Is a First-Class Output</b></td><td>The reasoning trace is not a debug log — it is returned to the caller as structured, versioned output with the same API contract guarantees as the score itself.</td></tr>
+<tr><td align="center"><b>⚖️ Calibration Over Confidence</b></td><td>VERITAS is optimized against calibration error (ECE), not raw accuracy. A system that is right 70% of the time and *knows* it is right 70% of the time is more useful than one that is right 80% of the time and claims 99%.</td></tr>
+<tr><td align="center"><b>🧭 Bias Is Surfaced, Not Hidden</b></td><td>Source-level bias and framing signals are attached to evidence rather than silently folded into a single opaque score, so a downstream reader can discount a source themselves.</td></tr>
+</table>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:0A0A0A&height=2&width=100%" width="100%"/>
+
+<br/>
+
+## 06 · Intelligence Pipeline
+
+VERITAS processes unstructured input through eight discrete, independently-auditable stages. Nothing is a monolith — every stage emits a typed, inspectable artifact that the next stage consumes.
+
+```mermaid
+flowchart TD
+    IN(["Unstructured Input\ntext · article · transcript"]) --> CE[Claim Extraction]
+    CE --> ER[Entity & Relation Recognition]
+    ER --> EE[Evidence Engine\nretrieval + ranking]
+    EE --> CS[Credibility Scoring]
+    CS --> BD[Bias & Framing Detection]
+    BD --> RE[Reasoning Engine]
+    RE --> XP[Explainability Layer]
+    XP --> OUT(["Verifiable Intelligence Report"])
+
+    style IN fill:#0B0F19,stroke:#94A3B8,color:#E8F0EE
+    style CE fill:#0B0F19,stroke:#1E90FF,color:#E8F0EE
+    style ER fill:#0B0F19,stroke:#1E90FF,color:#E8F0EE
+    style EE fill:#0B0F19,stroke:#D4AF37,color:#E8F0EE
+    style CS fill:#0B0F19,stroke:#D4AF37,color:#E8F0EE
+    style BD fill:#0B0F19,stroke:#94A3B8,color:#E8F0EE
+    style RE fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+    style XP fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+    style OUT fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+```
+
+Each stage below documents its **problem**, **solution**, **engineering decision**, and **research value** — not just what it does, but why it was built this way.
+
+<br/>
+
+## 07 · Claim Extraction
+
+**Problem.** Free text mixes assertions, questions, hedges, and opinions in the same sentence. Naively treating every sentence as a checkable claim floods downstream evidence retrieval with noise and burns retrieval budget on unfalsifiable statements.
+
+**Solution.** A claim-segmentation model decomposes input into atomic, checkable propositions — separating factual assertions from opinion, speculation, and rhetorical framing — and assigns each proposition a *checkability score* before it's allowed downstream.
+
+**Engineering decision.** Claim extraction runs as a two-pass system: a fast syntactic pass (dependency parsing) filters obviously non-factual spans cheaply, and only the surviving candidates go through the more expensive semantic checkability model. This keeps median latency low without sacrificing recall on genuinely checkable claims.
+
+**Research value.** Atomic claim decomposition is what makes every downstream score *attributable to a specific sentence*, rather than to a whole document — this is the structural choice that makes explainability possible at all.
+
+<br/>
+
+## 08 · Entity & Relation Recognition
+
+**Problem.** A claim like *"the agency approved the merger in March"* is meaningless to a verification system unless "the agency," "the merger," and the temporal anchor are resolved to concrete, disambiguated entities.
+
+**Solution.** A named-entity and relation extraction layer resolves mentions to a canonical knowledge graph node (or flags them as unresolved), and extracts the relation triples that evidence retrieval will search against.
+
+```mermaid
+graph LR
+    C(["Claim: \"The agency approved\nthe merger in March\""]) --> N1((agency))
+    C --> N2((merger))
+    C --> N3((March))
+    N1 -- approved --> N2
+    N2 -- occurred_in --> N3
+
+    style C fill:#0B0F19,stroke:#1E90FF,color:#E8F0EE
+    style N1 fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+    style N2 fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+    style N3 fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+```
+
+**Engineering decision.** Unresolved entities are never silently dropped — they propagate as an explicit `unresolved_entity` flag, which downstream confidence calibration treats as a hard penalty. Guessing at entity identity is treated as a worse failure mode than admitting ambiguity.
+
+**Research value.** Grounding claims in a knowledge graph (rather than raw text matching) is what allows evidence retrieval to search by *relation*, not just keyword overlap — this materially improves recall on paraphrased or reworded claims.
+
+<br/>
+
+## 09 · Evidence Engine
+
+**Problem.** Retrieval-only systems return documents that are topically related but don't actually confirm or deny the claim — "relevant" and "probative" are not the same thing.
+
+**Solution.** A hybrid dense + sparse retriever pulls a broad candidate set, and a stance-classification re-ranker scores each candidate as **supporting**, **refuting**, or **unrelated** to the specific claim — not just the general topic.
+
+<table>
+<tr><td width="20%" align="center"><b>Stage</b></td><td width="40%" align="center"><b>Function</b></td><td width="40%" align="center"><b>Output</b></td></tr>
+<tr><td align="center">Candidate Retrieval</td><td>Hybrid BM25 + dense vector search across the source corpus</td><td>Top-k topically relevant documents</td></tr>
+<tr><td align="center">Stance Classification</td><td>Per-claim, per-document stance re-ranking</td><td>support / refute / unrelated + confidence</td></tr>
+<tr><td align="center">Source Provenance</td><td>Publisher, publication date, and citation-chain resolution</td><td>Provenance metadata attached to every evidence item</td></tr>
+</table>
+
+**Engineering decision.** Stance classification is scoped *per claim–document pair*, never at the document level, because a single article routinely supports one claim while refuting another. Document-level stance labels were tried early and discarded — they destroyed precision on multi-claim articles.
+
+**Research value.** Separating "found it" from "it agrees with the claim" is the single biggest lever on false-confidence reduction in claim verification systems.
+
+<br/>
+
+## 10 · Credibility Scoring
+
+**Problem.** A confidence number with no calibration is worse than no number — it invites false certainty.
+
+**Solution.** Credibility is computed as a weighted aggregation over: evidence stance agreement, source diversity, source historical reliability, and recency — then explicitly calibrated against a held-out human-annotated benchmark rather than reported raw.
+
+**Engineering decision.** VERITAS reports scores with confidence *intervals*, not point estimates, and refuses to emit a score at all below a minimum-evidence threshold — returning `insufficient_evidence` instead of forcing a guess.
+
+**Research value.** Optimizing for **Expected Calibration Error (ECE)** rather than accuracy alone means the system's stated confidence is meaningful — a 70% score should be right roughly 70% of the time, not 95% or 40% of the time.
+
+<br/>
+
+## 11 · Explainability Engine
+
+**Problem.** Most "explainable AI" retrofits an explanation onto a decision the model already made — the explanation is generated *after* the verdict and often doesn't reflect the actual decision path.
+
+**Solution.** VERITAS's reasoning trace is generated **during** inference, not after — every weight, evidence item, and stance classification that contributed to the final score is logged as a structured, replayable trace, so the explanation *is* the decision path, not a plausible-sounding story about it.
+
+```mermaid
+sequenceDiagram
+    participant Claim
+    participant Evidence
+    participant Scorer
+    participant Trace as Reasoning Trace
+    Claim->>Evidence: retrieve & classify stance
+    Evidence->>Scorer: weighted stance signals
+    Scorer->>Trace: log every weight applied
+    Scorer->>Claim: credibility score + interval
+    Trace-->>Claim: full evidence-to-score trail
+```
+
+**Engineering decision.** The trace is versioned and stored alongside the score — if the underlying model is updated, historical traces remain replayable against the model version that produced them, which matters enormously for audit and research reproducibility.
+
+**Research value.** This is what separates VERITAS from post-hoc explainability tools like SHAP or LIME applied to a black-box classifier: the explanation was never separate from the reasoning, so there's nothing to reverse-engineer.
+
+<br/>
+
+## 12 · Bias & Framing Detection
+
+**Problem.** Two sources can both be factually accurate and still frame the same event in ways that push a reader toward different conclusions.
+
+**Solution.** A framing-analysis layer runs alongside stance classification, surfacing loaded language, selective emphasis, and source-level historical lean — attached to the evidence as metadata, never folded into the credibility score itself.
+
+**Engineering decision.** Bias signals are kept **structurally separate** from credibility scores by design. Conflating "is this true" with "is this framed neutrally" was identified early as a research anti-pattern that quietly launders editorial judgment into a number that looks objective.
+
+**Research value.** Presenting bias as a separate, inspectable axis — rather than a hidden penalty term — respects the reader's own judgment instead of substituting for it.
+
+<br/>
+
+## 13 · Report Generator
+
+**Problem.** A JSON blob of scores is not usable by a human analyst under time pressure.
+
+**Solution.** The report layer renders the full reasoning trace, evidence set, and credibility breakdown into a structured, citation-linked report — web, PDF, and API formats — so the same evidence trail an engineer can query is the one an analyst can read.
+
 <div align="center">
 
-## Development Environment
+<!-- SCREENSHOT PLACEHOLDER -->
+<img src="https://via.placeholder.com/900x480/0B0F19/0FD08C?text=VERITAS+Report+View+%E2%80%94+Screenshot+Placeholder" width="85%" alt="Report generator screenshot placeholder"/>
+<br/><sub>PLACEHOLDER — replace with an actual product screenshot or demo GIF</sub>
 
 </div>
 
+<br/>
+
+## 14 · Dashboard Preview
+
 <div align="center">
 
-| Editor | Version Control | Core Runtime |
-|:---:|:---:|:---:|
-| ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) | ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) |
-
-| API & Backend | Data & Storage | Deployment | OS |
-|:---:|:---:|:---:|:---:|
-| ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Express](https://skillicons.dev/icons?i=express) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Vercel](https://skillicons.dev/icons?i=vercel) ![Docker](https://skillicons.dev/icons?i=docker) | ![Linux](https://skillicons.dev/icons?i=linux) |
+<img src="https://via.placeholder.com/900x480/0B0F19/1E90FF?text=VERITAS+Dashboard+%E2%80%94+Screenshot+Placeholder" width="85%" alt="Dashboard screenshot placeholder"/>
+<br/><sub>PLACEHOLDER — replace with dashboard screenshot / animated product demo GIF</sub>
 
 </div>
 
 <br/>
 
-Most of what I build starts in VS Code, gets versioned in Git from the first commit, and moves through a local FastAPI or Node server before it ever touches a deployment pipeline. Docker comes in when a project's dependencies get complex enough that "works on my machine" stops being good enough. Vercel handles the frontend deployments — it's the one part of the pipeline I rarely have to think about, which is exactly why I use it.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:0A0A0A&height=2&width=100%" width="100%"/>
 
 <br/>
 
----
+## 15 · Architecture
+
+```mermaid
+flowchart TB
+    subgraph Client["Client Layer"]
+        WEB[Web App — Next.js]
+        API_C[API Consumers]
+    end
+
+    subgraph Gateway["API Gateway"]
+        GW[GraphQL / REST Gateway]
+        AUTH[Auth & Rate Limiting]
+    end
+
+    subgraph Core["Intelligence Core"]
+        CE[Claim Extraction Service]
+        ER[Entity Resolution Service]
+        EV[Evidence Engine]
+        CS[Credibility Scorer]
+        XP[Explainability Service]
+    end
+
+    subgraph Data["Data Layer"]
+        VDB[(Vector Store)]
+        KG[(Knowledge Graph)]
+        PG[(PostgreSQL)]
+        CACHE[(Redis Cache)]
+    end
+
+    subgraph Infra["Platform"]
+        QUEUE[Task Queue]
+        WORKERS[Async Workers]
+        OBS[Observability / Tracing]
+    end
+
+    WEB --> GW
+    API_C --> GW
+    GW --> AUTH --> CE
+    CE --> ER --> EV
+    EV --> VDB
+    EV --> KG
+    EV --> CS --> XP
+    XP --> PG
+    CE -.-> QUEUE --> WORKERS
+    Core -.-> OBS
+    EV --> CACHE
+
+    style Core fill:#0F2A2E,stroke:#0FD08C
+    style Data fill:#0B0F19,stroke:#D4AF37
+    style Gateway fill:#0B0F19,stroke:#1E90FF
+```
+
+**Engineering decision.** The Intelligence Core is deliberately decomposed into independently deployable services rather than a single inference monolith — each stage has different scaling characteristics (entity resolution is cheap and stateless; evidence retrieval is I/O-bound; credibility scoring is compute-bound), and coupling them would mean scaling the cheapest stage to match the most expensive one.
 
 <br/>
+
+## 16 · Frontend Architecture
+
+<table>
+<tr><td width="30%" align="center"><b>Layer</b></td><td width="70%" align="center"><b>Choice & Rationale</b></td></tr>
+<tr><td align="center">Framework</td><td>Next.js (App Router) — server components for evidence-heavy pages, streaming for report generation</td></tr>
+<tr><td align="center">State</td><td>React Query for server state; evidence trees are cached per claim to avoid re-fetching large reasoning traces</td></tr>
+<tr><td align="center">Visualization</td><td>D3.js for the knowledge graph and evidence-timeline views; these are hand-built rather than a generic charting library, since the interaction model (click an edge → see the evidence trace) is domain-specific</td></tr>
+<tr><td align="center">Design System</td><td>Custom component library — glassmorphic research cards, evidence-timeline primitives, credibility-interval widgets</td></tr>
+</table>
+
+<br/>
+
+## 17 · Backend Architecture
+
+<table>
+<tr><td width="30%" align="center"><b>Layer</b></td><td width="70%" align="center"><b>Choice & Rationale</b></td></tr>
+<tr><td align="center">API</td><td>GraphQL gateway federating the Intelligence Core services, plus a REST surface for simple claim-check integrations</td></tr>
+<tr><td align="center">Core Services</td><td>Python (FastAPI) for ML-heavy stages; Go for the low-latency gateway and auth layer</td></tr>
+<tr><td align="center">Retrieval</td><td>Hybrid vector store (dense embeddings) + inverted index (sparse/BM25), fused at query time</td></tr>
+<tr><td align="center">Knowledge Graph</td><td>Graph database for entity/relation resolution, versioned so historical claims resolve against the graph state at time-of-check</td></tr>
+<tr><td align="center">Async Processing</td><td>Task queue + worker pool for evidence retrieval and scoring, since these are the highest-latency, most parallelizable stages</td></tr>
+</table>
+
+<br/>
+
+## 18 · Folder Structure
+
+```text
+veritas/
+├── apps/
+│   ├── web/                    # Next.js frontend — dashboard, reports, evidence explorer
+│   └── api-gateway/            # GraphQL/REST gateway, auth, rate limiting
+├── services/
+│   ├── claim-extraction/       # Claim segmentation + checkability scoring
+│   ├── entity-resolution/      # NER + knowledge graph linking
+│   ├── evidence-engine/        # Hybrid retrieval + stance classification
+│   ├── credibility-scoring/    # Calibrated scoring + confidence intervals
+│   ├── explainability/         # Reasoning trace generation + storage
+│   └── bias-detection/         # Framing / loaded-language analysis
+├── packages/
+│   ├── knowledge-graph-client/ # Shared graph query layer
+│   ├── ui-kit/                 # Shared design system components
+│   └── schema/                 # Shared GraphQL / protobuf schemas
+├── infra/
+│   ├── terraform/              # Cloud infrastructure as code
+│   ├── k8s/                    # Deployment manifests
+│   └── observability/          # Tracing, metrics, dashboards
+├── research/
+│   ├── notebooks/              # Calibration studies, benchmark evaluation
+│   └── benchmarks/             # Held-out annotated evaluation sets
+└── docs/
+    ├── architecture/
+    └── api-reference/
+```
+
+<br/>
+
+## 19 · Technology Stack
 
 <div align="center">
 
-## Connect
-
-<br/>
-
-<a href="https://thenameisbhagavan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-thenameisbhagavan.vercel.app-00E5FF?style=for-the-badge" /></a>
-<br/><br/>
-<a href="https://github.com/TheNameIsBhagavan"><img src="https://img.shields.io/badge/GitHub-TheNameIsBhagavan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-TODO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/Email-TODO-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<table>
+<tr><td align="center" width="20%"><b>Layer</b></td><td width="80%"><b>Technologies</b></td></tr>
+<tr><td align="center">Frontend</td><td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</td></tr>
+<tr><td align="center">Core Services</td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</td></tr>
+<tr><td align="center">Data</td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+</td></tr>
+<tr><td align="center">Platform</td><td>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+</td></tr>
+</table>
 
 </div>
 
 <br/>
 
----
+## 20 · Deployment
+
+```mermaid
+flowchart LR
+    DEV[Local Dev] -->|PR| CI[CI: lint + test + calibration eval]
+    CI -->|merge| STAGE[Staging Cluster]
+    STAGE -->|canary| PROD[Production Cluster]
+    PROD --> CDN[Edge / CDN]
+
+    style CI fill:#0B0F19,stroke:#1E90FF,color:#E8F0EE
+    style STAGE fill:#0B0F19,stroke:#D4AF37,color:#E8F0EE
+    style PROD fill:#0F2A2E,stroke:#0FD08C,color:#0FD08C
+```
+
+Every deploy to production runs the full **calibration benchmark suite**, not just unit tests — a change that improves accuracy but degrades calibration (ECE) fails the pipeline. This is a deliberate departure from typical ML CI, where accuracy alone gates release.
+
+<br/>
+
+## 21 · Security
+
+- **Source integrity** — evidence provenance is cryptographically hashed at ingestion time so a citation can be verified against tampering after the fact.
+- **Least-privilege data access** — the knowledge graph and vector store are accessed exclusively through the evidence engine's service boundary; no downstream service holds direct credentials.
+- **Audit logging** — every credibility score is immutably logged with its full reasoning trace ID, enabling after-the-fact audit of any published conclusion.
+- **Input isolation** — claim extraction runs in a sandboxed inference environment isolated from the knowledge graph write path, limiting the blast radius of adversarial input.
+
+<br/>
+
+## 22 · Performance
+
+<div align="center">
+
+| Metric | Target | Notes |
+|:--|:--:|:--|
+| Claim extraction latency (p95) | < 200ms | Two-pass syntactic + semantic filter |
+| Evidence retrieval latency (p95) | < 900ms | Hybrid dense + sparse, cached embeddings |
+| End-to-end claim check (p95) | < 3.5s | Full pipeline, cold cache |
+| Calibration error (ECE) | < 0.05 | Measured against held-out annotated benchmark |
+
+</div>
+
+<sub>PLACEHOLDER — replace with actual benchmark numbers once measured against your deployment.</sub>
+
+<br/>
+
+## 23 · Scalability
+
+The Evidence Engine and Credibility Scorer are the two compute-bound stages and scale horizontally behind the task queue independently of the lightweight gateway and entity-resolution services — meaning a traffic spike in simple claim checks doesn't force over-provisioning of the most expensive stages, and vice versa.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,100:0A0A0A&height=2&width=100%" width="100%"/>
+
+<br/>
+
+## 24 · Roadmap
+
+```mermaid
+timeline
+    title VERITAS Research Timeline
+    Q1 : Core pipeline — claim extraction, entity resolution
+    Q2 : Evidence engine — hybrid retrieval, stance classification
+    Q3 : Calibrated credibility scoring, explainability trace v1
+    Q4 : Bias & framing detection, multi-language claim support
+    Future : Real-time streaming verification, cross-modal (image/video) evidence
+```
+
+<br/>
+
+## 25 · Future Research
+
+- **Cross-modal evidence** — extending stance classification beyond text to images, audio, and video evidence.
+- **Multi-hop reasoning** — claims that require chaining evidence across multiple documents, not single-document support/refute pairs.
+- **Adversarial robustness** — systematic evaluation against coordinated misinformation campaigns designed to game the evidence engine.
+- **Federated source trust** — allowing organizations to weight source reliability against their own historical annotations rather than a single global trust score.
+
+<br/>
+
+## 26 · Contributing
+
+VERITAS is a research-grade platform, and contributions are held to a research-grade bar.
+
+```bash
+# 1. Fork and clone
+git clone https://github.com/your-org/veritas.git
+
+# 2. Install dependencies
+pnpm install && poetry install
+
+# 3. Run the calibration benchmark before opening a PR
+pnpm run benchmark:calibration
+
+# 4. Open a PR — CI will run lint, tests, and the full calibration suite
+```
+
+<sub>See <code>CONTRIBUTING.md</code> for the full research contribution guide — PLACEHOLDER, add before publishing.</sub>
+
+<br/>
+
+## 27 · Developer
+
+<div align="center">
+
+<sub>PLACEHOLDER — replace with real maintainer info</sub>
+
+<img src="https://img.shields.io/badge/Maintainer-Your_Name-0FD08C?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/Contact-your@email.com-1E90FF?style=flat-square&labelColor=0B0F19"/>
+
+</div>
+
+<br/>
+
+## 28 · License
+
+Released under the **Apache 2.0 License**. See [`LICENSE`](./LICENSE) for details.
 
 <br/>
 
 <div align="center">
 
-### Engineering is not only about writing code — it's about creating experiences people trust.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F2A2E,100:0B0F19&height=180&section=footer&text=Evidence%20first.%20Always.&fontSize=28&fontColor=0FD08C&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=130&section=footer" width="100%"/>
-
-**© 2026 Siva Satya Sai Bhagavan — TheNameIsBhagavan**
+<sub>VERITAS · Explainable Intelligence Platform · Built for those who ask "how do you know?"</sub>
 
 </div>
