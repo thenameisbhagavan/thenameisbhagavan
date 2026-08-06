@@ -13,6 +13,11 @@
 <a href="https://www.thenameisbhagavan.in"><img src="https://img.shields.io/badge/Website-thenameisbhagavan.in-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/bhagavan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hello@thenameisbhagavan.in"><img src="https://img.shields.io/badge/Email-Reach%20Out-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/thenameisbhagavan"><img src="https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=thenameisbhagavan&label=Profile%20Views&color=1A1A1A&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -89,6 +94,26 @@ A production-grade automotive showcase — cinematic storytelling, interactive v
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
 
+## How These Systems Connect
+
+```mermaid
+graph LR
+    A[CareerOS] -->|Career Signal Data| B((AuraOS Memory Layer))
+    C[VERITAS] -->|Trust & Credibility Scoring| B
+    D[VoltDrive] -->|Motion & UI Patterns| E[Design System]
+    B -->|Reasoning + RAG| F[Unified Intelligence Layer]
+    E -->|Shared Components| A
+    E -->|Shared Components| C
+    style A fill:#0A0A0A,stroke:#8A8A8A,color:#E8E8E8
+    style B fill:#1A1A1A,stroke:#E8E8E8,color:#E8E8E8
+    style C fill:#0A0A0A,stroke:#8A8A8A,color:#E8E8E8
+    style D fill:#0A0A0A,stroke:#8A8A8A,color:#E8E8E8
+    style E fill:#1A1A1A,stroke:#8A8A8A,color:#E8E8E8
+    style F fill:#0A0A0A,stroke:#E8E8E8,color:#E8E8E8
+```
+
+<br/>
+
 ## Stack
 
 <div align="center">
@@ -108,6 +133,14 @@ A production-grade automotive showcase — cinematic storytelling, interactive v
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
 
+## Engineering Timeline
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=1500&color=8A8A8A&center=true&vCenter=true&width=700&lines=2023+%E2%80%94+Started+deep+learning+%2B+full+stack+fundamentals;2024+%E2%80%94+Shipped+first+production+RAG+system;2025+%E2%80%94+Built+CareerOS%2C+AuraOS%2C+VERITAS%2C+VoltDrive;2026+%E2%80%94+Graduating+JNTUK+%C2%B7+Scaling+TheNameIsBhagavan" alt="Timeline SVG" />
+</div>
+
+<br/>
+
 ## Activity
 
 <div align="center">
@@ -117,6 +150,11 @@ A production-grade automotive showcase — cinematic storytelling, interactive v
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameisbhagavan&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E8E8&text_color=B3B3B3" height="165" />
+<img src="https://github-readme-gitgraph.vercel.app/api?username=thenameisbhagavan&theme=github-compact&hide_border=true&bg_color=0A0A0A" height="165" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenameisbhagavan&theme=github-dark&hide_border=true&bg_color=0A0A0A&color=E8E8E8&line=E8E8E8&point=8A8A8A" width="97%" />
 
 </div>
@@ -124,6 +162,49 @@ A production-grade automotive showcase — cinematic storytelling, interactive v
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=thenameisbhagavan&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Writing & Notes
+
+<div align="center">
+
+<a href="https://www.thenameisbhagavan.in/journal"><img src="https://img.shields.io/badge/Engineering%20Journal-Read-1A1A1A?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+
+</div>
+
+- 📐 **Architecting AuraOS** — designing a memory layer that doesn't forget
+- 🧩 **Inside VERITAS** — building credibility scoring without an LLM crutch
+- ⚙️ **CareerOS internals** — turning a GitHub profile into a career signal
+- 🎬 **Motion design in VoltDrive** — cinematic UI without a game engine
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Let's Build Something
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D4D4D4&center=true&vCenter=true&width=600&lines=Open+to+collaborations+%26+AI+systems+work;DM+on+LinkedIn+or+drop+an+email" alt="CTA SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/bhagavan"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hello@thenameisbhagavan.in"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.thenameisbhagavan.in"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
