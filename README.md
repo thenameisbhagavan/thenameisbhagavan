@@ -35,7 +35,7 @@
 
 <br/>
 
-<sub>⚠️ <b>Placeholder notice:</b> swap <code>your-github-username</code> everywhere below, plus LinkedIn / X / resume / email links, before publishing.</sub>
+
 
 <br/><br/>
 
