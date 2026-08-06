@@ -190,6 +190,158 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
 
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/thenameisbhagavan/thenameisbhagavan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<sub align="center">Generated nightly via GitHub Actions from my contribution graph</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Skill Proficiency
+
+<div align="center">
+
+**Python** `████████████████████░░` 90%
+**React / JavaScript** `██████████████████░░░░` 85%
+**FastAPI / Flask** `█████████████████░░░░░` 82%
+**Deep Learning / NLP** `████████████████░░░░░░` 78%
+**System Design** `███████████████░░░░░░░` 74%
+**DevOps / Cloud** `█████████████░░░░░░░░░` 65%
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Experience Timeline
+
+```mermaid
+timeline
+    title Career So Far
+    2023 : Started AI & Data Science @ RCE JNTUK
+         : Learned Python, DL fundamentals
+    2024 : First full-stack apps shipped
+         : Explored RAG & vector databases
+    2025 : Built CareerOS, AuraOS, VERITAS, VoltDrive
+         : Freelance AI systems work
+    2026 : Graduating JNTUK
+         : Scaling TheNameIsBhagavan full time
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Education
+
+<table width="100%">
+<tr>
+<td width="15%" align="center">🎓</td>
+<td width="85%">
+
+**B.Tech in Artificial Intelligence & Data Science**
+Ramachandra College of Engineering (JNTUK) · 2022 – 2026
+Coursework: Machine Learning · Deep Learning · Data Structures & Algorithms · Distributed Systems · NLP
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Certifications & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-1A1A1A?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud%20AI%20Fundamentals-1A1A1A?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Hackathon%20Finalist-1A1A1A?style=for-the-badge&logo=devpost&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source%20Contributor-1A1A1A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Featured Repositories
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thenameisbhagavan&repo=careeros&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E8E8&text_color=B3B3B3&icon_color=8A8A8A" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thenameisbhagavan&repo=auraos&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E8E8&text_color=B3B3B3&icon_color=8A8A8A" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thenameisbhagavan&repo=veritas&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E8E8&text_color=B3B3B3&icon_color=8A8A8A" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thenameisbhagavan&repo=voltdrive&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E8E8&text_color=B3B3B3&icon_color=8A8A8A" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Open Source & Community
+
+- 🔧 Contributing fixes and features to AI tooling libraries in the RAG / vector-search space
+- 📚 Reviewing PRs and mentoring juniors on full-stack + AI project architecture
+- 🗣️ Sharing build breakdowns and system design notes on the Engineering Journal
+- 🌱 Occasional issue triage on open-source LLM orchestration frameworks
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Currently Exploring
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1200&color=8A8A8A&center=true&vCenter=true&width=700&lines=Multi-agent+orchestration+%26+tool-use+reasoning;Local-first+RAG+with+on-device+embeddings;Realtime+voice+interfaces+for+AI+systems;Systems+design+for+low-latency+inference" alt="Currently Exploring SVG" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Quick Facts
+
+<div align="center">
+<table>
+<tr><td>🌍 Based in</td><td>Andhra Pradesh, India</td></tr>
+<tr><td>💻 Daily drivers</td><td>Python · React · VS Code</td></tr>
+<tr><td>🧭 Focus</td><td>AI systems that reason & remember</td></tr>
+<tr><td>🎯 2026 goal</td><td>Ship TheNameIsBhagavan as a full product suite</td></tr>
+<tr><td>☕ Fuel</td><td>Filter coffee & late-night debugging</td></tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
+## Support the Work
+
+<div align="center">
+
+<a href="https://github.com/sponsors/thenameisbhagavan"><img src="https://img.shields.io/badge/Sponsor-GitHub-1A1A1A?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+<a href="https://www.buymeacoffee.com/thenameisbhagavan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1A1A1A?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>If any of these systems saved you time or sparked an idea, a star on the repos goes a long way.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:8A8A8A,100:0A0A0A&height=2&width=1000" width="100%" />
+
 ## Let's Build Something
 
 <div align="center">
