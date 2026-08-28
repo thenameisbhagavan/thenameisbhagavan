@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A1A1A&height=240&section=header&text=THE%20NAME%20IS%20BHAGAVAN&fontSize=44&fontColor=E8E8E8&fontAlignY=36&animation=fadeIn&desc=Systems%20that%20reason.%20Not%20screens%20that%20render.&descAlignY=54&descSize=16&descColor=8A8A8A" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=D4D4D4&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer+%C2%B7+Full+Stack+Engineer;Building+CareerOS+%C2%B7+AuraOS+%C2%B7+VERITAS+%C2%B7+VoltDrive;JNTUK+%E2%80%9926+%7C+AI+%26+Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=D4D4D4&center=true&vCenter=true&width=700&lines=AI+Product+Engineer+%C2%B7+Technical+AI%2FML+%26+Data+Science+Trainer;Building+CareerOS+%C2%B7+AuraOS+%C2%B7+VERITAS+%C2%B7+VoltDrive;AI%2FML+%C2%B7+Data+Science+%C2%B7+GenAI+%C2%B7+Full+Stack+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -14,6 +14,22 @@
 <sub><br/>Gopala Josyula Siva Satya Sai Bhagavan · Andhra Pradesh, India · <img src="https://komarev.com/ghpvc/?username=thenameisbhagavan&label=views&color=1A1A1A&style=flat-square" height="14" valign="middle" /></sub>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=50&width=1000&section=header&text=CURRENT%20ROLE&fontSize=18&fontColor=E8E8E8&fontAlignY=55" width="100%" />
+
+<br/>
+
+<table width="100%"><tr><td width="6px" style="background:#1A1A1A"></td><td>
+
+### Technical AI/ML & Data Science Trainer
+**Data Valley · Vijayawada, Andhra Pradesh, India**
+**August 2026 — Present · Full-time**
+
+Delivering hands-on technical training in Data Science, Machine Learning, and AI across college, in-office, and online programs. Developing structured curricula, presentations, coding labs, practical exercises, and project-based learning experiences while guiding students through implementation, debugging, and technical problem-solving.
+
+</td></tr></table>
 
 <br/>
 
@@ -98,7 +114,7 @@ A production-grade automotive showcase — cinematic scroll storytelling, intera
 
 *"Systems, not screens. Every product here is built to reason, remember, and explain itself — not just render UI."*
 
-Final-year AI & Data Science engineer building **TheNameIsBhagavan** — a long-term engineering ecosystem spanning AI infrastructure, full-stack products, and technical writing. Four systems anchor it today, each a deliberate exercise in a different hard problem: retrieval, reasoning, trust, and motion.
+AI Product Engineer and Technical AI/ML & Data Science Trainer building **TheNameIsBhagavan** — a long-term engineering ecosystem spanning AI infrastructure, full-stack products, data science, and intelligent systems. Four systems anchor it today, each a deliberate exercise in a different hard problem: retrieval, reasoning, trust, and motion.
 
 </td></tr></table>
 
@@ -139,7 +155,7 @@ graph LR
 
 <table width="100%">
 <tr><td width="18%"><b>Frontend</b></td><td>React · Vite · Framer Motion · React Router</td></tr>
-<tr><td><b>Backend</b></td><td>Python (FastAPI, Flask) · Node.js (Express) · MongoDB</td></tr>
+<tr><td><b>Backend</b></td><td>Python (FastAPI, Flask) · Node.js (Express) · MongoDB · Django</td></tr>
 <tr><td><b>AI / ML</b></td><td>Deep Learning · Agentic AI · RAG · Reasoning Systems · NLP · Memory Systems</td></tr>
 <tr><td><b>Deployment</b></td><td>Vercel · GitHub Actions · Cloudflare · Hostinger</td></tr>
 </table>
@@ -174,8 +190,9 @@ timeline
          : Explored RAG and vector databases
     2025 : Built CareerOS, AuraOS, VERITAS, VoltDrive
          : Took on freelance AI systems work
-    2026 : Graduating JNTUK
-         : Scaling TheNameIsBhagavan full time
+    2026 : Completed B.Tech, JNTUK
+         : Joined Data Valley as Technical AI/ML & Data Science Trainer
+         : Delivering hands-on Data Science, ML & AI training
 ```
 
 <table width="100%"><tr><td width="6px" style="background:#1A1A1A"></td><td>
@@ -210,6 +227,8 @@ Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=thenameisbhagavan&repo=voltdrive&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E8E8&text_color=B3B3B3&icon_color=8A8A8A" width="48%" />
 
 </div>
+
+> Note: verify the bullet points below against your actual GitHub activity before publishing — keep only what's currently true.
 
 - 🔧 Contributing fixes and features to AI tooling libraries in the RAG / vector-search space
 - 📚 Reviewing PRs and mentoring on full-stack + AI project architecture
@@ -249,9 +268,10 @@ Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms
 <br/>
 
 <table width="100%">
-<tr><td width="22%">🌍 Based in</td><td>Andhra Pradesh, India</td></tr>
-<tr><td>🧭 Focus</td><td>AI systems that reason & remember</td></tr>
-<tr><td>🎯 2026 goal</td><td>Ship TheNameIsBhagavan as a full product suite</td></tr>
+<tr><td width="22%">🌍 Based in</td><td>Vijayawada, Andhra Pradesh, India</td></tr>
+<tr><td>🧭 Current focus</td><td>AI systems, Data Science, Machine Learning & intelligent products</td></tr>
+<tr><td>💼 Current role</td><td>Technical AI/ML & Data Science Trainer @ Data Valley</td></tr>
+<tr><td>🎯 Status</td><td>Building · Teaching · Engineering</td></tr>
 </table>
 
 <div align="center">
@@ -263,10 +283,13 @@ Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms
 
 ```
 $ whoami
-Gopala Josyula Siva Satya Sai Bhagavan — AI Systems Engineer
+Gopala Josyula Siva Satya Sai Bhagavan — AI Product Engineer
 
-$ status
-Open to collaborations & AI systems work
+$ role
+Technical AI/ML & Data Science Trainer @ Data Valley
+
+$ location
+Vijayawada, Andhra Pradesh, India
 
 $ reach
 linkedin.com/in/bhagavan · hello@thenameisbhagavan.in · thenameisbhagavan.in
