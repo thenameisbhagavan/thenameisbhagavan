@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A1A1A&height=240&section=header&text=THE%20NAME%20IS%20BHAGAVAN&fontSize=44&fontColor=E8E8E8&fontAlignY=36&animation=fadeIn&desc=Systems%20that%20reason.%20Not%20screens%20that%20render.&descAlignY=54&descSize=16&descColor=8A8A8A" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=D4D4D4&center=true&vCenter=true&width=700&lines=AI+Product+Engineer+%C2%B7+Technical+AI%2FML+%26+Data+Science+Trainer;Building+CareerOS+%C2%B7+AuraOS+%C2%B7+VERITAS+%C2%B7+VoltDrive;AI%2FML+%C2%B7+Data+Science+%C2%B7+GenAI+%C2%B7+Full+Stack+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=D4D4D4&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%C2%B7+Software+Engineer+%C2%B7+AI%2FDS+Trainer;Building+Intelligent+Systems+%C2%B7+Data+Science+%C2%B7+Generative+AI;Python+%C2%B7+Machine+Learning+%C2%B7+Build+%E2%86%92+Teach+%E2%86%92+Share" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 <a href="mailto:hello@thenameisbhagavan.in"><img src="https://img.shields.io/badge/EMAIL-Reach%20Out-1A1A1A?style=flat-square&labelColor=0A0A0A&color=1A1A1A" /></a>&nbsp;
 <a href="https://github.com/thenameisbhagavan"><img src="https://img.shields.io/badge/GITHUB-Follow-1A1A1A?style=flat-square&labelColor=0A0A0A&color=1A1A1A" /></a>
 
-<sub><br/>Gopala Josyula Siva Satya Sai Bhagavan · Andhra Pradesh, India · <img src="https://komarev.com/ghpvc/?username=thenameisbhagavan&label=views&color=1A1A1A&style=flat-square" height="14" valign="middle" /></sub>
+<sub><br/>Gopala Josyula Siva Satya Sai Bhagavan · AI/ML Engineer | Software Engineer | AI/DS Trainer | Problem Solver · Andhra Pradesh, India · <img src="https://komarev.com/ghpvc/?username=thenameisbhagavan&label=views&color=1A1A1A&style=flat-square" height="14" valign="middle" /></sub>
 
 </div>
 
@@ -23,11 +23,11 @@
 
 <table width="100%"><tr><td width="6px" style="background:#1A1A1A"></td><td>
 
-### Technical AI/ML & Data Science Trainer
-**Data Valley · Vijayawada, Andhra Pradesh, India**
-**August 2026 — Present · Full-time**
+### AI/DS Trainer / Technical Trainer
+**Data Valley AI Tech Solutions · Vijayawada, Andhra Pradesh, India**
+**June 2024 — Present · Full-time**
 
-Delivering hands-on technical training in Data Science, Machine Learning, and AI across college, in-office, and online programs. Developing structured curricula, presentations, coding labs, practical exercises, and project-based learning experiences while guiding students through implementation, debugging, and technical problem-solving.
+Working continuously at Data Valley since June 2024, with 2+ years of experience in Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Python. The work centers on technical training, student mentoring, practical workshops, project-based learning, and industry-oriented technical education.
 
 </td></tr></table>
 
@@ -43,7 +43,7 @@ Delivering hands-on technical training in Data Science, Machine Learning, and AI
 <h3>🧠 CareerOS</h3>
 <i>AI Career Intelligence Platform</i>
 
-Turns a resume and a GitHub profile into a single reasoning layer — ATS scoring, GitHub signal analysis, market intelligence, and an AI-generated roadmap, all served through a decoupled Flask/FastAPI backend with live Gemini synthesis.
+Turns a resume and a GitHub profile into a single reasoning layer — ATS scoring, GitHub signal analysis, market intelligence, and an AI-generated roadmap, served through a decoupled Flask/FastAPI backend with live Gemini synthesis.
 
 `React` `Flask` `FastAPI` `Gemini`
 
@@ -114,9 +114,34 @@ A production-grade automotive showcase — cinematic scroll storytelling, intera
 
 *"Systems, not screens. Every product here is built to reason, remember, and explain itself — not just render UI."*
 
-AI Product Engineer and Technical AI/ML & Data Science Trainer building **TheNameIsBhagavan** — a long-term engineering ecosystem spanning AI infrastructure, full-stack products, data science, and intelligent systems. Four systems anchor it today, each a deliberate exercise in a different hard problem: retrieval, reasoning, trust, and motion.
+B.Tech Artificial Intelligence & Data Science graduate and AI/DS professional with 2+ years of experience at Data Valley AI Tech Solutions. I enjoy turning ideas into practical software, building intelligent systems, teaching technical concepts, and understanding the engineering logic behind the systems I build. This is **TheNameIsBhagavan** — a long-term engineering ecosystem where four systems anchor the work: retrieval, reasoning, trust, and motion.
+
+**Build → Teach → Share → Improve**
 
 </td></tr></table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🤖 AI / Machine Learning**
+Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI
+
+</td>
+<td width="33%" valign="top">
+
+**🛠️ Software Engineering**
+Python · FastAPI · React · Node.js · SQL · MongoDB
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 Problem Solving**
+Data Structures & Algorithms · Logical Problem Solving · Competitive Programming · LeetCode
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -154,10 +179,12 @@ graph LR
 <br/>
 
 <table width="100%">
-<tr><td width="18%"><b>Frontend</b></td><td>React · Vite · Framer Motion · React Router</td></tr>
-<tr><td><b>Backend</b></td><td>Python (FastAPI, Flask) · Node.js (Express) · MongoDB · Django</td></tr>
-<tr><td><b>AI / ML</b></td><td>Deep Learning · Agentic AI · RAG · Reasoning Systems · NLP · Memory Systems</td></tr>
-<tr><td><b>Deployment</b></td><td>Vercel · GitHub Actions · Cloudflare · Hostinger</td></tr>
+<tr><td width="18%"><b>AI / ML</b></td><td>Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLMs · RAG · AI Agents</td></tr>
+<tr><td><b>Programming</b></td><td>Python · JavaScript · SQL</td></tr>
+<tr><td><b>Backend</b></td><td>FastAPI · Flask · Node.js · Express.js</td></tr>
+<tr><td><b>Frontend</b></td><td>React · Vite · React Router</td></tr>
+<tr><td><b>Databases</b></td><td>MongoDB · SQL databases · Vector Databases</td></tr>
+<tr><td><b>Engineering</b></td><td>Git · GitHub · REST APIs · System Design</td></tr>
 </table>
 
 <div align="center"><br/>
@@ -183,38 +210,33 @@ DevOps / Cloud         █████████████░░░░░░
 
 ```mermaid
 timeline
-    title Engineering Timeline
-    2023 : Started AI & Data Science @ RCE JNTUK
-         : Learned Python & deep learning fundamentals
-    2024 : Shipped first full-stack applications
-         : Explored RAG and vector databases
-    2025 : Built CareerOS, AuraOS, VERITAS, VoltDrive
-         : Took on freelance AI systems work
-    2026 : Completed B.Tech, JNTUK
-         : Joined Data Valley as Technical AI/ML & Data Science Trainer
-         : Delivering hands-on Data Science, ML & AI training
+    title Education & Career Timeline
+    2017 – 2018 : SSC / 10th
+    2018 – 2020 : Intermediate
+    2020 – 2022 : B.Tech in Artificial Intelligence & Data Science
+                : Ramachandra College of Engineering (JNTUK)
+    June 2024 – Present : AI/DS Trainer at Data Valley AI Tech Solutions
+                        : 2+ years in Data Science, ML, AI and technical training
 ```
 
 <table width="100%"><tr><td width="6px" style="background:#1A1A1A"></td><td>
 
 **B.Tech, Artificial Intelligence & Data Science**
-Ramachandra College of Engineering (JNTUK) · 2022 – 2026
+Ramachandra College of Engineering (JNTUK) · 2020 – 2022
 Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms · Distributed Systems · NLP
 
 </td></tr></table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-1A1A1A?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Google%20Cloud%20AI%20Fundamentals-1A1A1A?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Hackathon%20Finalist-1A1A1A?style=flat-square&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Open%20Source%20Contributor-1A1A1A?style=flat-square&labelColor=0A0A0A" />
-
-</div>
+<table width="100%">
+<tr><td width="22%"><b>2017 – 2018</b></td><td>SSC / 10th</td></tr>
+<tr><td><b>2018 – 2020</b></td><td>Intermediate</td></tr>
+<tr><td><b>2020 – 2022</b></td><td>B.Tech — Artificial Intelligence & Data Science</td></tr>
+<tr><td><b>June 2024 – Present</b></td><td>Data Valley AI Tech Solutions</td></tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=50&width=1000&section=header&text=REPOSITORIES%20%26%20OPEN%20SOURCE&fontSize=18&fontColor=E8E8E8&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=50&width=1000&section=header&text=REPOSITORIES&fontSize=18&fontColor=E8E8E8&fontAlignY=55" width="100%" />
 
 <br/>
 
@@ -228,20 +250,13 @@ Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms
 
 </div>
 
-> Note: verify the bullet points below against your actual GitHub activity before publishing — keep only what's currently true.
-
-- 🔧 Contributing fixes and features to AI tooling libraries in the RAG / vector-search space
-- 📚 Reviewing PRs and mentoring on full-stack + AI project architecture
-- 🗣️ Publishing build breakdowns on the Engineering Journal
-- 🌱 Issue triage on open-source LLM orchestration frameworks
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=50&width=1000&section=header&text=ACTIVITY&fontSize=18&fontColor=E8E8E8&fontAlignY=55" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=8A8A8A&center=true&vCenter=true&width=720&lines=Currently+exploring%3A+multi-agent+orchestration;Local-first+RAG+with+on-device+embeddings;Realtime+voice+interfaces+for+AI+systems;Systems+design+for+low-latency+inference" alt="Currently Exploring SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=8A8A8A&center=true&vCenter=true&width=720&lines=Current+focus%3A+AI%2FML+%C2%B7+Data+Science+%C2%B7+Generative+AI;Exploring%3A+RAG%2C+AI+agents+and+multi-agent+orchestration;Teaching%3A+hands-on+ML+and+Data+Science+labs;Build+%E2%86%92+Teach+%E2%86%92+Share+%E2%86%92+Improve" alt="Currently Exploring SVG" />
 
 <div align="center"><br/>
 
@@ -269,9 +284,9 @@ Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms
 
 <table width="100%">
 <tr><td width="22%">🌍 Based in</td><td>Vijayawada, Andhra Pradesh, India</td></tr>
-<tr><td>🧭 Current focus</td><td>AI systems, Data Science, Machine Learning & intelligent products</td></tr>
-<tr><td>💼 Current role</td><td>Technical AI/ML & Data Science Trainer @ Data Valley</td></tr>
-<tr><td>🎯 Status</td><td>Building · Teaching · Engineering</td></tr>
+<tr><td>🧭 Current focus</td><td>AI/ML · Data Science · GenAI · Software Engineering</td></tr>
+<tr><td>💼 Current role</td><td>AI/DS Trainer @ Data Valley AI Tech Solutions</td></tr>
+<tr><td>🎯 Status</td><td>Building · Teaching · Sharing</td></tr>
 </table>
 
 <div align="center">
@@ -283,10 +298,13 @@ Coursework — Machine Learning · Deep Learning · Data Structures & Algorithms
 
 ```
 $ whoami
-Gopala Josyula Siva Satya Sai Bhagavan — AI Product Engineer
+Gopala Josyula Siva Satya Sai Bhagavan — AI/ML Engineer | Software Engineer | AI/DS Trainer
 
 $ role
-Technical AI/ML & Data Science Trainer @ Data Valley
+AI/DS Trainer @ Data Valley AI Tech Solutions
+
+$ experience
+2+ Years at Data Valley · June 2024 — Present
 
 $ location
 Vijayawada, Andhra Pradesh, India
